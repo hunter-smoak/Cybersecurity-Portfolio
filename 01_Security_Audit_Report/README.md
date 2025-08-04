@@ -23,5 +23,3 @@
 4. Install IDS  
 5. Enforce stronger password policies  
 6. Regularly audit legacy systems
-
-[Download full audit report PDF here](./botium_security_audit.pdf)
